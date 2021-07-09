@@ -1,9 +1,7 @@
 # Luv's CP Course
 This repository contains (will contain) :
-* Solutions to problems from the [Competitive Programming Course](https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) offered by [Luv](https://github.com/luvk1412) on YouTube.
-(The problem links are usually present in the video's description, but I've made sure to add them at the very top in each solution file.)
-* Notes from certain episodes. (generally syntax that I didn't knew before)
-Note : To be pushed.
+* Solutions to problems from the [Competitive Programming Course](https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) offered by [Luv](https://github.com/luvk1412) on YouTube. <br>The problem links are usually present in the video's description, but I've made sure to add them at the very top in each solution file.)
+* Notes from certain episodes. (generally syntax that I didn't knew before) <br>Note : To be pushed.
 * Solutions to contest problems.
 
 ## Why there needs to be repo for solutions?
