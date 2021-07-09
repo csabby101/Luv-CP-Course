@@ -1,0 +1,13 @@
+Good Questions
+
+https://www.spoj.com/problems/MOZSATLA/
+
+https://www.hackerrank.com/challenges/bigger-is-greater/problem
+
+https://www.codechef.com/problems/GCDQ
+
+isPalin
+
+https://www.hackerrank.com/challenges/special-palindrome-again
+
+https://www.hackerrank.com/challenges/non-divisible-subset/problem
