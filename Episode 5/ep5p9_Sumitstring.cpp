@@ -1,4 +1,6 @@
-//https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/sumits-string/
+// https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/sumits-string/
+// the link above apparently DOES NOT work anymore
+// Alternate link : https://assessment.hackerearth.com/challenges/college/string-basics/algorithm/28ad292dad114b21afc9d18618e9aa19/
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -17,27 +19,6 @@ int main()
 		int l = s.size();
 		for (int i = 0; i < l - 1; i++)
 		{
-			//method 1
-			// if(s[i] == 'a' && (s[i + 1] != 'z') && (s[i + 1] != 'a' + 1))
-			// {
-			// 	cout << "NO" << endl;
-			// 	c++;
-			// 	break;
-			// }
-			// if(s[i] == 'z' && (s[i + 1] != 'a') && (s[i + 1] != 'z' - 1))
-			// {
-			// 	cout << "NO" << endl;
-			// 	c++;
-			// 	break;
-			// }
-			// else if((s[i] != 'z') && (s[i] != 'a') &&(s[i] - s[i + 1] != 1) && (s[i] - s[i + 1] != -1))
-			// {
-			// 	cout << "NO" << endl;
-			// 	c++;
-			// 	break;
-			// }
-			
-			//method 2
 			if((abs(s[i + 1] - s[i]) != 1) && (abs(s[i + 1] - s[i]) != 25))
 			{
 				//cout << abs(s[i + 1] - s[i]) << endl;
