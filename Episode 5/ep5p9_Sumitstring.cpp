@@ -1,6 +1,7 @@
 // https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/sumits-string/
 // the link above apparently DOES NOT work anymore
 // Alternate link : https://assessment.hackerearth.com/challenges/college/string-basics/algorithm/28ad292dad114b21afc9d18618e9aa19/
+// To avoid any future incoveniences, added a pdf with name "z_Sumit's String - HackerEarth" in the same directory
 
 #include <bits/stdc++.h>
 using namespace std;
