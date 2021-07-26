@@ -1,4 +1,4 @@
-//https://www.hackerearth.com/problem/algorithm/ladderophilia-2024b9c9/
+// https://www.hackerearth.com/problem/algorithm/ladderophilia-2024b9c9/
 
 #include <bits/stdc++.h>
 using namespace std;

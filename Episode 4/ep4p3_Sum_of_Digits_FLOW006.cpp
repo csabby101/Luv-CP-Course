@@ -1,4 +1,4 @@
-//https://www.codechef.com/problems/FLOW006
+// https://www.codechef.com/problems/FLOW006
 
 #include <bits/stdc++.h>
 using namespace std;

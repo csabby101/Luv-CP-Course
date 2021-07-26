@@ -1,4 +1,4 @@
-//https://www.hackerearth.com/problem/algorithm/mangoes/
+// https://www.hackerearth.com/problem/algorithm/mangoes/
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -18,5 +18,5 @@ int main ()
 	}
 }
 
-//silly mistake : a == 2 wala case nhi socha
-//divide toh ho jaega 2 se but even numbers me divide na hoga, 1 + 1, 1 ain't even
+// silly mistake : a == 2 wala case nhi socha
+// divide toh ho jaega 2 se but even numbers me divide nahi hoga, 1 + 1, 1 ain't even

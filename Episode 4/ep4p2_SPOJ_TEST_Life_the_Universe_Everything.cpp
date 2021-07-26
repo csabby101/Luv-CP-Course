@@ -1,4 +1,4 @@
-//https://www.spoj.com/problems/TEST/
+// https://www.spoj.com/problems/TEST/
 
 #include <bits/stdc++.h>
 using namespace std;
