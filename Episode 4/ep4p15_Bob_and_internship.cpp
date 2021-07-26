@@ -1,4 +1,7 @@
-//https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/bob-and-internship/
+// https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/bob-and-internship/
+// the link above apparently DOES NOT work anymore
+// Alternate link : https://assessment.hackerearth.com/challenges/college/practice-contest-3/algorithm/7cf32b588dfc4a7d9727f4b8a636e057/
+// To avoid any future incoveniences, added a pdf with name "Z_Bob and Internship - HackerEarth" in the same directory
 
 #include <bits/stdc++.h>
 using namespace std;
