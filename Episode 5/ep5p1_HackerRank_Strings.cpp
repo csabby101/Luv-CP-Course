@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/c-tutorial-strings/problem
+// https://www.hackerrank.com/challenges/c-tutorial-strings/problem
 
 #include <bits/stdc++.h>
 using namespace std;

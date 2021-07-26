@@ -1,4 +1,5 @@
-//https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cipher-1/
+// https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cipher-1/
+// problem link BROKEN ik :((
 
 #include <bits/stdc++.h>
 using namespace std;

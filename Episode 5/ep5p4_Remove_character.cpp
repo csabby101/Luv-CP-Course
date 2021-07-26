@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/remove-character3815/1
+// https://practice.geeksforgeeks.org/problems/remove-character3815/1
 
 #include <bits/stdc++.h>
 using namespace std;

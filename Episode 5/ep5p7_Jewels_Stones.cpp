@@ -23,7 +23,7 @@ int main()
 			{
 				if(s1[i] == s2[j])
 				{
-					//s2[i] = ' '; noi noobda sawal :(( 
+					//s2[i] = ' '; nope! noob question :(( 
 					count++;
 					break;
 				}
