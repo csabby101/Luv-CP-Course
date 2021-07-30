@@ -1,15 +1,13 @@
 // https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/bob-and-internship/
 // the link above apparently DOES NOT work anymore
 // Alternate link : https://assessment.hackerearth.com/challenges/college/practice-contest-3/algorithm/7cf32b588dfc4a7d9727f4b8a636e057/
+// Login before using the link above
 // To avoid any future incoveniences, added a pdf with name "Z_Bob and Internship - HackerEarth" in the same directory
 
 #include <bits/stdc++.h>
 using namespace std;
 
-#define FAST ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);
-
 #define int long long
-
 #define endl "\n"
 
 const int N = 2e6 + 5;
@@ -83,7 +81,8 @@ void solve()
 
 signed main()
 {
-    FAST
+    ios::sync_with_stdio(false); cin.tie(NULL);
+
     precompute();
     int t;
     cin >> t;
@@ -94,7 +93,7 @@ signed main()
 }
 
 
-//test cases
+//good test case
 //11
 //889859 362381 275111
 //487854 195438 182335
