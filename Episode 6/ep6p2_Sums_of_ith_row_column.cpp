@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1
+// https://practice.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1
 // something on the lines of the ques above
 
 #include <bits/stdc++.h>
