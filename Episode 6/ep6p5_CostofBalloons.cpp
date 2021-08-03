@@ -1,4 +1,4 @@
-//https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/
+// https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -7,25 +7,23 @@ using namespace std;
 
 int great(int m, int n)
 {
-	if(m >= n)
+	if (m > n)
 		return m;
-	else 
-		return n;
+	return n;
 }
 
 int les(int m, int n)
 {
-	if(m >= n)
+	if (n < m)
 		return n;
-	else 
-		return m;
+	return m;
 }
 
 int main()
 {
 	int n;
 	cin >> n;
-	while(n--)
+	while (n--)
 	{
 		int g, p;
 		cin >> g >> p;
@@ -42,4 +40,3 @@ int main()
 		cout << great(sum_b, sum_a) * les(g, p) + les(sum_a, sum_b) * great(g, p) << endl;
 	}
 }
-
