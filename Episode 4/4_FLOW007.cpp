@@ -21,26 +21,4 @@ int main ()
 		}
 		cout << num << endl;
 	}
-
-
-	//method 1 (tatti), handled like strings ig
-	/*
-	while (n--)
-	{
-		int a;
-		cin >> a;
-		while (a % 10 == 0)
-		{
-			a /= 10;
-		}
-
-		int b = 0;
-		while (a > 0)
-		{
-			b = a % 10;
-			cout << b;
-			a /= 10;
-		}
-		cout << endl;
-	}*/
 }
