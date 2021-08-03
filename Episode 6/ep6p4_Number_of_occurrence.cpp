@@ -7,14 +7,14 @@ public:
 	// if x is present in arr[] then returns the count of occurrences of x, otherwise returns 0
 	int count(int arr[], int n, int x)
 	{
-		int freq[n];
+		unordered_map<int, int> freq;
 
 		for (int i = 0; i < n; i++)
 		{
 			freq[arr[i]]++;
 		}
 
-		if (x < n && freq[x] > 0)
+		if (freq[x])
 			return freq[x];
 		else
 			return 0;
